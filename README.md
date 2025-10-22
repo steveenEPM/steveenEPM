@@ -1,4 +1,3 @@
-<>
 <h1 align="center">Hola 👋, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Steveen Pinzon</a></h1>
 <h3 align="center">Desarrollador Full Stack</h3>
@@ -13,5 +12,41 @@ Steveen Pinzon</a></h1>
 </div>
 
 <div>
-  <h3>Tecnologias</h3>
+  <h3>Tecnologias y Herramientas</h3>
+  
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
+
+
+- 🟨 **JavaScript**
+- ⚛️ **React**
+- 📱 **React Native**
+- 🟩 **Node.js**
+- 🟦 **TypeScript**
+- 🐍 **Python**
+- ☕ **Java**
+- 🐳 **Docker**
+
+### 🗄️ Bases de datos SQL
+- 🗄️ **MySQL**
+- 🐘 **PostgreSQL**
+### 🔥 Bases de datos NoSQL
+- 🔥 **Firebase**
+
+### 📈 Big Data y Machine Learning
+- 🧠 **Pandas** — Análisis y manipulación de datos.  
+- 📊 **NumPy** — Computación numérica eficiente.  
+- 🤖 **Scikit-learn** — Modelado predictivo y aprendizaje automático.
+
+### 🎨 Visualización y análisis de datos
+- 📉 **Power BI** — Creación de paneles interactivos y reportes analíticos.  
+
+
+### ☁️ Servicios en la nube
+- ☁️ **AWS (Amazon Web Services)**
+
+### 🔧 Servicio de hosting
+- 🌍 **Hostinger** — Plataforma de alojamiento web para sitios y aplicaciones con alto rendimiento.  
+- 🧩 **GoDaddy** — Servicio de hosting y gestión de dominios para proyectos web profesionales.
 </div>
