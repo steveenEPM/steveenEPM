@@ -34,6 +34,9 @@ Steveen Pinzon</a></h1>
 ### 🔥 Bases de datos NoSQL
 - 🔥 **Firebase**
 
+### 🎨 Diseño y UX/UI
+- 🎨 **Figma** — Diseño de interfaces, prototipos interactivos y colaboración en tiempo real.
+
 ### 📈 Big Data y Machine Learning
 - 🧠 **Pandas** — Análisis y manipulación de datos.  
 - 📊 **NumPy** — Computación numérica eficiente.  
