@@ -49,4 +49,7 @@ Steveen Pinzon</a></h1>
 ### 🔧 Servicio de hosting
 - 🌍 **Hostinger** — Plataforma de alojamiento web para sitios y aplicaciones con alto rendimiento.  
 - 🧩 **GoDaddy** — Servicio de hosting y gestión de dominios para proyectos web profesionales.
+
+### 🛠️ Control de versiones y colaboración
+- 🐙 **GitHub** — Control de versiones, colaboración en proyectos y despliegue de sitios mediante GitHub Pages.
 </div>
